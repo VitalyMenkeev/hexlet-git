@@ -1,1 +1,0 @@
-Haskell Curry! v2
